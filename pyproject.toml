@@ -1,0 +1,13 @@
+[project]
+name = "hello-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "librosa>=0.11.0",
+    "numpy>=2.3.5",
+    "requests>=2.32.5",
+    "scikit-learn>=1.7.2",
+    "soundfile>=0.13.1",
+]
